@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -clapU --group-directories-first 
+ls -ap --group-directories-first 
